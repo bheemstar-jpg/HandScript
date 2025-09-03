@@ -49,5 +49,5 @@ Feel free to fork the repository, improve the model, or add new features! Open a
 This project is open-source under the MIT License.
 
 ---
-Roan Malec
 
+Bheema Marabai
